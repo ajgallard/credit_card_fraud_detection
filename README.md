@@ -1,5 +1,6 @@
 # Credit Card Fraud Detection
 
+<img src='images/fraud_detection.jpg' width="400" height="260" >
 
 This repo is an exercise in utilizing both supervised and unsupervised machine learning algorithms to detect cases of credit card fraud.
 
